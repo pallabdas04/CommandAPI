@@ -6,7 +6,6 @@ C:\PALLAB-DATA\Projects\CommandAPISolution\bin\Debug\netcoreapp3.1\CommandAPISol
 C:\PALLAB-DATA\Projects\CommandAPISolution\bin\Debug\netcoreapp3.1\CommandAPISolution.runtimeconfig.dev.json
 C:\PALLAB-DATA\Projects\CommandAPISolution\bin\Debug\netcoreapp3.1\CommandAPISolution.dll
 C:\PALLAB-DATA\Projects\CommandAPISolution\bin\Debug\netcoreapp3.1\CommandAPISolution.pdb
-C:\PALLAB-DATA\Projects\CommandAPISolution\obj\Debug\netcoreapp3.1\CommandAPISolution.csproj.AssemblyReference.cache
 C:\PALLAB-DATA\Projects\CommandAPISolution\obj\Debug\netcoreapp3.1\CommandAPISolution.GeneratedMSBuildEditorConfig.editorconfig
 C:\PALLAB-DATA\Projects\CommandAPISolution\obj\Debug\netcoreapp3.1\CommandAPISolution.AssemblyInfoInputs.cache
 C:\PALLAB-DATA\Projects\CommandAPISolution\obj\Debug\netcoreapp3.1\CommandAPISolution.AssemblyInfo.cs
